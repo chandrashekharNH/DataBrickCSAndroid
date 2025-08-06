@@ -1,0 +1,16 @@
+# Android specific
+.gradle/
+.idea/
+local.properties
+*.iml
+*.apk
+*.aar
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+.DS_Store
+
+# OS-specific
+*.swp
+*.swo
